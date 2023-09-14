@@ -31,7 +31,7 @@
   },
   "include": [
     "src"
-  ],
+, "../upload-ai-api/src/lib/axios.ts"  ],
   "references": [
     {
       "path": "./tsconfig.node.json"
